@@ -1,5 +1,7 @@
 # DS_6306 Project 1
 
+YouTube Link: https://www.youtube.com/watch?v=PqfcC3wfWUM
+
 This is the github repository for project group Brian Gaither, Andrew Laresen and Andrew Mejia. 
 
 The purpose of this project is to answer the following questions of interest and present those findings to Budweiser.
